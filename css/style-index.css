@@ -1,0 +1,101 @@
+:root {
+    --vermelho: #E50914;
+    --preto   : #141414;
+}
+
+* {
+    padding    : 0;
+    margin     : 0;
+    box-sizing : border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size  : 14px;
+    color      : #fff;
+}
+
+body {
+    background-color: var(--preto);
+}
+
+header .container {
+    display        : flex;
+    flex-direction : row;
+    align-items    : center;
+    /*PARA CENTRALIZAR 'center'*/
+    justify-content: space-between;
+    /* ESPACO ENTRE AS TAGS 'space-between' */
+    max-height     : 50px;
+}
+
+header .container img {
+    max-width  : 120px;
+    margin-left: 10px;
+}
+
+header .logo {
+    margin-left    : 10px;
+    color          : var(--vermelho);
+    font-family    : 'Arial Black';
+    font-size      : 40px;
+    text-decoration: none;
+}
+
+header nav a {
+    color          : #AAA;
+    margin-right   : 30px;
+    text-decoration: none;
+    font-family    : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size      : 16px;
+}
+
+header nav a:hover {
+    /*MUDA COR QUANDO CLICA ':hover' */
+    color: #fff;
+}
+
+.filme-principal {
+
+    font-size      : 16px;
+    background     : url('../img/house-of-cards.jpg');
+    height         : 400px;
+    background-size: cover;
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+    align-items    : flex-start;
+}
+
+.container2 {
+    margin-left: 10px;
+}
+
+.filme-principal .descricao {
+    margin-bottom: 40px;
+    margin-top   : 10px;
+}
+
+.botao {
+    background-color: rgba(0, 0, 0, 50%);
+    border          : 1px solid transparent;
+    padding         : 10px 20px;
+    font-size       : 12px;
+    margin-right    : 10px;
+    cursor          : pointer;
+    transition      : .3s ease all;
+
+}
+
+.botao:hover {
+    background-color: white;
+}
+
+.botao i {
+    margin-right: 10px;
+}
+
+.filme-principal .titulo {
+    font-size: 40px;
+}
+
+.carousel {
+    padding-top: 30px;
+}
