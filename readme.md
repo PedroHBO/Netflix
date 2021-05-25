@@ -14,7 +14,7 @@ Após finalizar as aulas, Foi criada uma tela de Login onde ao apertar "Entrar" 
 
 ![Netflix-Index](https://user-images.githubusercontent.com/66649954/119437110-d7e33a80-bcf3-11eb-92ed-0a894931aae2.png)
 
-SCRIPTS e LINKS Utilizados para fazer o carousel:
+SCRIPTS e LINKS utilizados para fazer o carousel:
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.css" />
