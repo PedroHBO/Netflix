@@ -7,12 +7,12 @@ Após finalizar as aulas, Foi criada uma tela de Login onde ao apertar "Entrar" 
 **COMO FICOU:**
 
 <p align="center">LOGIN</p>
-  
-![Instagram](https://user-images.githubusercontent.com/66649954/119435318-44f4d100-bcf0-11eb-9221-19f1cedbabe7.png)
+
+![Netflix-Login](https://user-images.githubusercontent.com/66649954/119437104-d31e8680-bcf3-11eb-8b2b-e3934ee7b227.png)
 
 <p align="center">PAGINA INICIAL</p>
 
-![Link-Instagram](https://user-images.githubusercontent.com/66649954/119435029-c8fa8900-bcef-11eb-9aaa-e1eb47364c76.png)
+![Netflix-Index](https://user-images.githubusercontent.com/66649954/119437110-d7e33a80-bcf3-11eb-92ed-0a894931aae2.png)
 
 SCRIPTS e LINKS Utilizados para fazer o carousel:
 
