@@ -28,4 +28,4 @@ SCRIPTS e LINKS utilizados para fazer o carousel:
 ```
 
 
-**Lets Bora!**
+**Avante DEV!**
